@@ -1,0 +1,9 @@
+TASK 1: Create an image gallery using a CSS grid.
+
+TASK 2: Write code to arrange containers with texts A, B, C, and D as shown in the below image.
+
+TASK 3: Explain the use of grid-auto-row and grid-auto-column using code examples.
+
+TASK 4: Write CSS to show numbers as shown in the figure, without altering the html file.
+
+TASK 5: Explain the difference between justify-items and justify-self using code examples.
